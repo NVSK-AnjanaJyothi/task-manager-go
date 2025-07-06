@@ -56,13 +56,8 @@ GET http://localhost:8081/tasks
 DELETE http://localhost:8081/tasks/1
 
 
-🧰 Run the Project
-bash
-Copy
-Edit
-git clone https://github.com/your-username/task-manager-go.git
-cd task-manager-go
-go run .
+
+
 ✅ Make sure you have Go installed and internet access for downloading dependencies.
 
 
